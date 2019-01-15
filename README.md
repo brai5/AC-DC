@@ -10,5 +10,5 @@ https://labs.cognitiveclass.ai/tools/jupyter-notebook/api/v1/resources/labs/PY01
 https://labs.cognitiveclass.ai/tools/jupyter-notebook/api/v1/resources/labs/PY0101EN/3.1_Conditions.ipynb
 https://labs.cognitiveclass.ai/tools/jupyter-notebook/api/v1/resources/labs/PY0101EN/3.3_Functions.ipynb
 https://labs.cognitiveclass.ai/tools/jupyter-notebook/api/v1/resources/labs/PY0101EN/3.4_Objects_and_Classes.ipynb
-
+https://labs.cognitiveclass.ai/tools/jupyter-notebook/api/v1/resources/labs/PY0101EN/4.2Writing_and_Saving_Files.ipynb
 
